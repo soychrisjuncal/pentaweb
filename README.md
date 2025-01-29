@@ -5,9 +5,9 @@
 
 <a href="https://pentaconsulting.com.ar/"><img src="https://i.ibb.co/fz22rLfk/mockup1.png"></a>
 
-En este proyecto trabaje sobre el diseño elaborado por la agencia UNBote y a traves de WordPress con tecnologias como HTML CSS JS Y PHP entre otras, realizando un diseño y desarrollo unico para esta empresa.
-Pueden visitar la web aqui:
-
+En este proyecto trabaje sobre el diseño elaborado por la agencia UNBote y a través de WordPress con tecnologías como HTML CSS JS Y PHP entre otras, realizando un diseño y desarrollo único para esta empresa.
+Pueden visitar la web aquí:
+https://pentaconsulting.com.ar/
 
 
 
